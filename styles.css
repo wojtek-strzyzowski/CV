@@ -1,0 +1,143 @@
+
+
+body{
+    display: flex;
+    margin: 20;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+main {
+    display: flex;
+    flex-direction: column;
+}
+.contact{
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+    
+}
+
+h1{
+    color: #FFF;
+
+    font-family: Space Grotesk;
+    font-size: 60.504px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%; /* 60.504px */
+}
+
+.über{
+    display: center;
+    align-items: center;
+
+}
+.nav{
+    width: 100%;
+
+}
+
+.nav ul{
+    list-style-type: none;
+    }
+
+.nav li{
+    float: left;
+    margin-left: 15px;
+    color: gold;
+    color: #FFF;
+
+    font-family: Poppins;
+    font-size: 21.782px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 32.672px */
+}
+a{
+    color: gold;
+    width: 769.613px;
+    font-family: Poppins;
+    font-size: 21.782px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 32.672px */
+}
+
+.full{
+    padding: 90px 45px 90px 90px;
+}
+
+.right1{
+    padding: 90px 90px 90px 45px;
+}
+
+.zeugnis{
+    flex-direction: column;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+h2{
+    color: #FFF;
+    font-feature-settings: 'clig' off, 'liga' off;
+    /* Section-Title */
+    font-family: Space Grotesk;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+ul{
+    color: #FFF;
+
+    font-family: Poppins;
+    font-size: 21.782px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 32.672px */
+}
+
+.erfahrung p{
+    color: #FFF;
+    width: 769.613px;
+    font-family: Poppins;
+    font-size: 21.782px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 32.672px */
+}
+h3{
+    
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 29.042px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; /* 43.563px */
+}
+.Datum{
+    padding-top: 42px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%; /* 21.6px */
+    text-transform: capitalize;
+}
+.Datum1{
+    padding-top: 42px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%; /* 21.6px */
+    text-transform: capitalize;
+}
